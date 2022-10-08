@@ -1,0 +1,12 @@
+D:\Development Visual Studio\OrganizaMais\OrganizaMais.Domain\bin\Debug\net6.0\OrganizaMais.Domain.deps.json
+D:\Development Visual Studio\OrganizaMais\OrganizaMais.Domain\bin\Debug\net6.0\OrganizaMais.Domain.dll
+D:\Development Visual Studio\OrganizaMais\OrganizaMais.Domain\bin\Debug\net6.0\OrganizaMais.Domain.pdb
+D:\Development Visual Studio\OrganizaMais\OrganizaMais.Domain\obj\Debug\net6.0\OrganizaMais.Domain.csproj.AssemblyReference.cache
+D:\Development Visual Studio\OrganizaMais\OrganizaMais.Domain\obj\Debug\net6.0\OrganizaMais.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development Visual Studio\OrganizaMais\OrganizaMais.Domain\obj\Debug\net6.0\OrganizaMais.Domain.AssemblyInfoInputs.cache
+D:\Development Visual Studio\OrganizaMais\OrganizaMais.Domain\obj\Debug\net6.0\OrganizaMais.Domain.AssemblyInfo.cs
+D:\Development Visual Studio\OrganizaMais\OrganizaMais.Domain\obj\Debug\net6.0\OrganizaMais.Domain.csproj.CoreCompileInputs.cache
+D:\Development Visual Studio\OrganizaMais\OrganizaMais.Domain\obj\Debug\net6.0\OrganizaMais.Domain.dll
+D:\Development Visual Studio\OrganizaMais\OrganizaMais.Domain\obj\Debug\net6.0\refint\OrganizaMais.Domain.dll
+D:\Development Visual Studio\OrganizaMais\OrganizaMais.Domain\obj\Debug\net6.0\OrganizaMais.Domain.pdb
+D:\Development Visual Studio\OrganizaMais\OrganizaMais.Domain\obj\Debug\net6.0\ref\OrganizaMais.Domain.dll
